@@ -12,3 +12,5 @@ def my_collect(array)
     puts "Hey! No block was given!"
   end
 end
+
+['ruby', 'javascript', 'python', 'objective-c']
